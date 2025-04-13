@@ -1,0 +1,17 @@
+package ejercicios1;
+
+import java.util.Scanner;
+
+public class Ejercicio03 {
+	static Scanner t = new Scanner(System.in);
+
+	/*Escribir un programa que lea las dimensiones de una matriz, lea y visualice la
+	matriz y a continuación encuentre el mayor y menor elemento de la matriz y sus
+	posiciones.*/
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

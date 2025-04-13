@@ -1,0 +1,15 @@
+package ejercicios1;
+
+public class Ejercicio10 {
+	
+	/*Escribir un programa que encuentre los cuatro primeros números perfectos pares (no
+	hay números perfectos impares).
+	Un número perfecto es un entero positivo, que es igual a la suma de todos enteros
+	positivos (excluidos el mismo) que son divisores del número. El primer número perfecto
+	es 6, ya que los divisores de 6 son 1,2,3 y 1+2+3=6.*/
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+}

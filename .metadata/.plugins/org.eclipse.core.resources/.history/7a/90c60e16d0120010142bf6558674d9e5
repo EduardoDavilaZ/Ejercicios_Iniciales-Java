@@ -1,0 +1,16 @@
+package ejercicios3;
+
+import java.util.Scanner;
+
+public class Ejercicio28 {
+	static Scanner t = new Scanner(System.in);
+	
+	/*Calcular todos los números de tres cifras tales que la suma de los cubos de las
+	cifras es igual al valor del número.*/
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
