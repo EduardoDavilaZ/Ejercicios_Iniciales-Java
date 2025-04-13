@@ -1,0 +1,57 @@
+# Eclipse specific files
+.metadata/
+bin/
+tmp/
+*.log
+*.bak
+*.swp
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.jre
+*.pdb
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Files created by IDEs (NetBeans, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IntelliJ IDEA
+*.iws
+*.ipr
+*.idea/
+
+# Maven specific files (if you're using Maven)
+target/
+*.log
+
+# Gradle specific files (if you're using Gradle)
+.gradle/
+build/
+
+# Operating System specific files
+*~
+*.bak
+*.swp
+
+# Temporary files
+*.tmp
+*.orig
+
+# Exclude other temporary files or generated files
+*.jar
+
