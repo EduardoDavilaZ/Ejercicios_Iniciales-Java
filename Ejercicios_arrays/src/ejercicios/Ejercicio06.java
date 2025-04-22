@@ -9,7 +9,7 @@ public class Ejercicio06 {
 	/*Los resultados a la últimas elección a alcalde en el pueblo X has sido los
 	siguientes:
 			DISTRITO CANDIDATO
-		     A     B    C     D
+		        A     B    C     D
 		1	194   48   206   45
 		2	180   20   320   16
 		3	221   90   140   20
