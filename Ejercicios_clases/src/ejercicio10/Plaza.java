@@ -19,10 +19,10 @@ public class Plaza {
 	}
 	
 	public void visualizar() {
-		if (coche == null) {
-			moto.visualizar();
-		} else {
+		if (coche != null) {
 			coche.visualizar();
+		} else {
+			moto.visualizar();
 		}
 	}
 

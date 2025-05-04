@@ -21,12 +21,4 @@ public class Vehiculo {
 	public void visualizar() {
 		System.out.println("Potencia: " + potencia);
 	}
-	
-	public int getPotencia() {
-		return potencia;
-	}
-
-	public void setPotencia(int potencia) {
-		this.potencia = potencia;
-	}
 }
